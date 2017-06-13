@@ -1,4 +1,3 @@
-
 ##################################################
               Welcome to phASER v0.9.9.2
   Author: Stephane Castel (scastel@nygenome.org)
